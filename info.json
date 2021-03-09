@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "f33ed801567e124f07c26f7fab7553400bbab317",
+    "author": "ShixiangWang <wangshx@shanghaitech.edu.cn>",
+    "time": "2021-03-09 08:32:30",
+    "files": 1,
+    "merge": false,
+    "message": "Update XenaHub.Rd\n"
+  },
+  "remote": "https://github.com/ropensci/UCSCXenaTools",
+  "pkg": "UCSCXenaTools"
+}
