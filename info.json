@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "4daf88b3e95523de7eec0da4e651c50b6bb8c30f",
+    "author": "ShixiangWang <wangshx@shanghaitech.edu.cn>",
+    "time": "2024-01-13 16:41:18",
+    "files": 2,
+    "merge": false,
+    "message": "Fix CRAN check issues\n\nChange a way to store API functions and queries\n"
+  },
+  "repo": "https://github.com/ropensci/UCSCXenaTools",
+  "pkg": "UCSCXenaTools"
+}
