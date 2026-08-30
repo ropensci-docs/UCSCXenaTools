@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "82ea9ada186f694ac0c47e95417952c67eeed472",
+    "author": "Shixiang Wang (王诗翔) <wangshx@csu.edu.cn>",
+    "time": "2026-02-06T17:29:57Z",
+    "files": 2,
+    "merge": false,
+    "message": "update readme\n"
+  },
+  "repo": "https://github.com/ropensci/UCSCXenaTools",
+  "pkg": "UCSCXenaTools",
+  "time": "2026-08-30T07:16:44Z"
+}
